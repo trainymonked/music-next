@@ -14,7 +14,7 @@ import getActiveProductsWithPrices from '@/actions/getActiveProductsWithPrices'
 const font = Figtree({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-    title: 'Spotify Next',
+    title: 'Music Next',
     description: 'Music For Everyone',
 }
 

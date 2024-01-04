@@ -2,7 +2,7 @@ import { Price } from '@/types'
 
 export const getURL = () => {
     let url =
-        'https://spotify-next-murex.vercel.app/' ??
+        'https://music-next-murex.vercel.app/' ??
         process.env.NEXT_PUBLIC_SITE_URL ??
         process.env.NEXT_PUBLIC_VERCEL_URL ??
         'http://localhost:3000/'
